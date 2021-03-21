@@ -1,0 +1,2 @@
+Link : https://medium.com/swlh/how-to-access-webcam-and-take-picture-with-javascript-b9116a983d78
+Link : https://suckittrees.com/artikel-470/mengambil-foto-webcam-dengan-webcamjs-dan-php.html

@@ -1,0 +1,2 @@
+* Modul Ini Hanya Mendukung Untuk Penggunaan 
+Browser (Mozilla/Google/dll) dengan versi terbaru
